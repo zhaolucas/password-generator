@@ -91,7 +91,7 @@ var upperCasedCharacters = [
 // Function to prompt user for password options
 function getPasswordOptions() {
   // prompt user for password length
-  let passwordLength = parseInt(prompt('Password length must be between 8-120'));
+  let passwordLength = parseInt(prompt('Password length must be between 8-128'));
 
   // validate password length: if passwordLength is NaN, or not between 8-128, then alert error, and restart 
   if (passwordLength < 9 || passwordLength > 128 || isNaN(passwordLength)) {

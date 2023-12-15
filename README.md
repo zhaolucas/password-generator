@@ -2,7 +2,7 @@
 
 This challege is designing an application that an employee can use to generate a random password based on criteria that runs in the browser and features dynamically updated HTML and CSS, all powered by JavaScript code. The app will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. The password can include special characters. 
 
-Link to the deployed application: 
+Link to the deployed application: https://zhaolucas.github.io/password-generator/
 
 ## Table of Contents
 
